@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.app_filmes.app-mergeDebugResources-50:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kinha\\.gradle\\caches\\8.13\\transforms\\93175c50eaa2c16b40f5ca2d983aedce\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
